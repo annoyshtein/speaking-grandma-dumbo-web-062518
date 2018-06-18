@@ -5,6 +5,7 @@ def speak_to_grandma
     puts "Name is upper-case"
   else
     puts "HUH?! SPEAK UP, SONNY!"
+  end 
 end
 
 speak_to_grandma
