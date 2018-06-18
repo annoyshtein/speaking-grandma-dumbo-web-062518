@@ -1,6 +1,6 @@
-def speak_to_grandma 
+def speak_to_grandma(statement)
 
-  name = gets.chomp
+  name = statement
   if name == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
   elsif name == (name.upcase)
